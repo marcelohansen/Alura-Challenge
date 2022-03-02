@@ -7,11 +7,14 @@
 - [Week 3](): Alura Skimo needs to analyze its sales metrics.
 
 ## :clapper: Week 1: Alura Films
-Under construction
+More information coming soon
+
 https://bit.ly/3JJcfLP
 
 ## :plate_with_cutlery: Week 2: Alura Foods
-Under construction
+More information coming soon
+
+https://bit.ly/AlFoods
 
 ## :icecream: Week 3: Alura Skimo
 Under construction
