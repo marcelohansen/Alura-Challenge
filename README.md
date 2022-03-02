@@ -8,6 +8,7 @@
 
 ## :clapper: Week 1: Alura Films
 Under construction
+https://bit.ly/3JJcfLP
 
 ## :plate_with_cutlery: Week 2: Alura Foods
 Under construction
