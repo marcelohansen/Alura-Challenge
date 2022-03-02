@@ -1,0 +1,16 @@
+IMDb
+Amarelo: #f5c518
+Preto: #000000
+
+texto cinza claro: #bcbcbc
+texto azul claro: #5799ef
+texto verde claro: #67ad4b
+
+metacritic
+logo Amarelo: #ffcc34
+logo fundo chumbo: #333333
+site fundo chumbo: #111111
+site fundo preto: #000000
+verde nota: #66cc33
+amarelo nota: #ffcc33
+vermelho nota: #ff0000
