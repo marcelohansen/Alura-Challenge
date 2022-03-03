@@ -110,7 +110,7 @@ The Power BI dashboard is available at: https://bit.ly/AlFoods
 
 🔷 Each restaurant visual has a custom tooltip with more information about the place. The visual "Image Grid" was used to insert the illustrations of the restaurants.
 
-![image](https://user-images.githubusercontent.com/98857817/156611036-f0905816-9dfa-44d5-9100-f1519cdd9c20.png)
+![image](https://user-images.githubusercontent.com/98857817/156641736-95f510b2-54e1-45fd-be3f-1ff3eaf0abfc.png)
 
 &nbsp;
 &nbsp;
