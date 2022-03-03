@@ -6,7 +6,10 @@
 - [Week 2](https://github.com/marcelohansen/Alura-Challenge-BI/#plate_with_cutlery-week-2-alura-foods): Alura Foods wants to analyze Indian restaurant market
 - [Week 3](https://github.com/marcelohansen/Alura-Challenge-BI/#icecream-week-3-alura-skimo): Alura Skimo needs to analyze its sales metrics.
 
-## :clapper: Week 1: Alura Films
+&nbsp;
+&nbsp;
+   
+## 🎬 Week 1: Alura Films
 In this challenge, Alura Films wants to make a new production. There was analyzed data from Genre, Gross, Stars and Directors and Rating (IMDb and Metacritic).
 
 Take a look at this dashboard created in Power BI: https://bit.ly/3JJcfLP
@@ -66,11 +69,61 @@ Take a look at this dashboard created in Power BI: https://bit.ly/3JJcfLP
 &nbsp;
 &nbsp;
 
-## :plate_with_cutlery: Week 2: Alura Foods
-More information coming soon
+## 🍽️ Week 2: Alura Foods
 
-https://bit.ly/AlFoods
+In this week, Alura Foods is looking for an opportunity to expand its restaurant business to India. Location and operation data of the restaurants were analyzed, such as country, city, coordinates, type of cuisine, price, rating, delivery and table booking.
 
-## :icecream: Week 3: Alura Skimo
+The Power BI dashboard is available at: https://bit.ly/AlFoods
+
+&nbsp;
+&nbsp;
+
+🟡 At the beginning, you can see the general numbers of restaurants in India. Quantity of restaurants, restaurants by city, average rating and cost (in four currencies), map with location, percentage with delivery and type of cuisine are displayed on this screen. On the left side there are buttons for navigating the dashboard pages.
+
+![image](https://user-images.githubusercontent.com/98857817/156609939-711cdf2c-857c-46a7-9e7e-440727f8236d.png)
+
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+🟡🟡 In this part it's possible to see more information about the restaurants. On the right side are some filters to refine the parameters and improve the analysis. The results are shown by the best restaurants and cuisines. There are two donut charts to represent the rating and price range distribution.
+
+![image](https://user-images.githubusercontent.com/98857817/156610020-82cab32f-dab3-491a-8b60-8b79b13c6538.png)
+
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+🟡🟡🟡 The last page allows to make some combinations of filters and searches. Results are displayed on cards with important information and a table.
+
+![image](https://user-images.githubusercontent.com/98857817/156610369-95d647ba-851b-4198-8e5b-0b5b7e9598ee.png)
+
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+🔷 Each restaurant visual has a custom tooltip with more information about the place. The visual "Image Grid" was used to insert the illustrations of the restaurants.
+
+![image](https://user-images.githubusercontent.com/98857817/156611036-f0905816-9dfa-44d5-9100-f1519cdd9c20.png)
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+🔷 The database was divided into five .json files. All files were connected by folder and the exchange rate is collected by an API. The ETL process was done in Power Query by expanding columns, changing column types, replacing values and deleting useless data. Two auxiliary queries were created to organize the data and work with the categories of cuisine.
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+## 🍦 Week 3: Alura Skimo
 Under construction
 
