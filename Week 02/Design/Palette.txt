@@ -1,0 +1,5 @@
+Verde escuro: #206A5D
+Verde claro: #81B214
+Verde com transparência: #C6E386
+Amarelo: #FFCC29
+Laranja: #F58634
