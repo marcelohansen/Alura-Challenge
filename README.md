@@ -127,3 +127,5 @@ The Power BI dashboard is available at: https://bit.ly/AlFoods
 ## 🍦 Week 3: Alura Skimo
 Under construction
 
+link: https://bit.ly/AluraSkimo
+
