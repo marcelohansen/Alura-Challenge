@@ -135,7 +135,17 @@ In the third week, Alura Skimo needs a dashboard to track all necessary sales me
 &nbsp;
 &nbsp;
 
-:red_square: The database was available in DUMP files and restored using MySQL. The Power BI connection was made by a MySQL localhost. The entire ETL process was done in Power Query using the main functions like changing column types, replacing values, renaming columns and created a date table. For this dashboard, some measures were created used in the metrics and analysis visuals, such as total revenue, higher profit, total sales commission, difference between scenarios and production cost. The measures related information between tables (RELATED function). In addition, parameters were created to analyze some interactive scenarios. All measurements and parameters were organized in folders. Finally, the dashboard was created in Portuguese, but it is easy to translate in Google Chrome.
+:red_square: The database was available in DUMP files and restored using MySQL. The Power BI connection was made by a MySQL localhost.
+
+![Query MySQL](https://user-images.githubusercontent.com/98857817/158450173-682af09d-8c2f-4b26-8245-17a283638ac4.PNG)
+
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+:red_square: The entire ETL process was done in Power Query using the main functions like changing column types, replacing values, renaming columns and created a date table. For this dashboard, some measures were created used in the metrics and analysis visuals, such as total revenue, higher profit, total sales commission, difference between scenarios and production cost. The measures related information between tables (RELATED function). In addition, parameters were created to analyze some interactive scenarios. All measurements and parameters were organized in folders. Finally, the dashboard was created in Portuguese, but it is easy to translate in Google Chrome.
 
 ![image](https://user-images.githubusercontent.com/98857817/158431498-5ca63707-59d2-455d-87d9-eebb4dbe1ad8.png)
 
