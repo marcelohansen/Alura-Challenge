@@ -1,0 +1,14 @@
+Bege: #E6CCA9
+Roxo/marrom: #533535
+Roxo médio: #AE4CCF
+Rosa: #FF6D6D
+
+Rosa claro: #FDD2BF
+Rosa médio: #E98580
+Rosa: #E98580
+Marrom: #492F10
+
+Roxo: #52006A
+Rosa escuro: #CD113B
+Laranja: #FF7600
+Amarelo: #FFA900
