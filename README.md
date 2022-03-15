@@ -135,7 +135,7 @@ In the third week, Alura Skimo needs a dashboard to track all necessary sales me
 &nbsp;
 &nbsp;
 
-:red_square: The database was available in DUMP files and restored using MySQL. The Power BI connection was made by a MySQL localhost.
+🟥 The database was available in DUMP files and restored using MySQL. The Power BI connection was made by a MySQL localhost.
 
 ![Query MySQL](https://user-images.githubusercontent.com/98857817/158450173-682af09d-8c2f-4b26-8245-17a283638ac4.PNG)
 
@@ -145,7 +145,7 @@ In the third week, Alura Skimo needs a dashboard to track all necessary sales me
 &nbsp;
 &nbsp;
 
-:red_square: The entire ETL process was done in Power Query using the main functions like changing column types, replacing values, renaming columns and created a date table. For this dashboard, some measures were created used in the metrics and analysis visuals, such as total revenue, higher profit, total sales commission, difference between scenarios and production cost. The measures related information between tables (RELATED function). In addition, parameters were created to analyze some interactive scenarios. All measurements and parameters were organized in folders. Finally, the dashboard was created in Portuguese, but it is easy to translate in Google Chrome.
+🟥 The entire ETL process was done in Power Query using the main functions like changing column types, replacing values, renaming columns and created a date table. For this dashboard, some measures were created used in the metrics and analysis visuals, such as total revenue, higher profit, total sales commission, difference between scenarios and production cost. The measures related information between tables (RELATED function). In addition, parameters were created to analyze some interactive scenarios. All measurements and parameters were organized in folders. Finally, the dashboard was created in Portuguese, but it is easy to translate in Google Chrome.
 
 ![image](https://user-images.githubusercontent.com/98857817/158431498-5ca63707-59d2-455d-87d9-eebb4dbe1ad8.png)
 
@@ -155,7 +155,7 @@ In the third week, Alura Skimo needs a dashboard to track all necessary sales me
 &nbsp;
 &nbsp;
 
-:red_square: The panel has a menu bar on the left side. There are five buttons to navigate between pages and two buttons to link to the dashboard creator's GitHub and Linkedin pages. All buttons were made with bookmarks. The panel design was created in MS Power Point.
+🟥 The panel has a menu bar on the left side. There are five buttons to navigate between pages and two buttons to link to the dashboard creator's GitHub and Linkedin pages. All buttons were made with bookmarks. The panel design was created in MS Power Point.
 
 ![image](https://user-images.githubusercontent.com/98857817/158444974-04931991-48a4-46eb-a99b-76eab96103dc.png)
 
@@ -164,7 +164,7 @@ In the third week, Alura Skimo needs a dashboard to track all necessary sales me
 &nbsp;
 &nbsp;
 
-:brown_circle: On the first page, you can see general information such as the best selling product, the most profitable seller, an interactive donut visual sorted by product category, total revenue area chart, and a year slicer (shown as buttons).
+🟤 On the first page, you can see general information such as the best selling product, the most profitable seller, an interactive donut visual sorted by product category, total revenue area chart, and a year slicer (shown as buttons).
 
 ![image](https://user-images.githubusercontent.com/98857817/158433333-6f1150b9-016e-4edc-bef5-09614560fec8.png)
 
@@ -173,7 +173,7 @@ In the third week, Alura Skimo needs a dashboard to track all necessary sales me
 &nbsp;
 &nbsp;
 
-:brown_circle::red_circle: By clicking the second button on the menu bar, located on the left side of the page, you can go to the products page. There is an area chart with total sales by category, a stacked bar chart with the best sales of flavors, three single cards and a multi-line card with the best selling products. For more information about the products, there is a table below the page. Also, at the top it is possible to choose some filters to perform analysis.
+🟤🔴 By clicking the second button on the menu bar, located on the left side of the page, you can go to the products page. There is an area chart with total sales by category, a stacked bar chart with the best sales of flavors, three single cards and a multi-line card with the best selling products. For more information about the products, there is a table below the page. Also, at the top it is possible to choose some filters to perform analysis.
 
 ![image](https://user-images.githubusercontent.com/98857817/158436067-7978dd33-88f4-46c4-9186-af05c24427d5.png)
 
@@ -182,7 +182,7 @@ In the third week, Alura Skimo needs a dashboard to track all necessary sales me
 &nbsp;
 &nbsp;
 
-:brown_circle::red_circle::purple_circle: On the sales page two top 3 rankings are shown, the highest revenue seller and the highest revenue product. There is an area chart that shows the percentage difference, per month, in revenue between the current year and the previous year of the analyzed period. This graph also has a trend line of the revenue difference. Some slicers on the top could refine the analysis.
+🟤🔴🟣 On the sales page two top 3 rankings are shown, the highest revenue seller and the highest revenue product. There is an area chart that shows the percentage difference, per month, in revenue between the current year and the previous year of the analyzed period. This graph also has a trend line of the revenue difference. Some slicers on the top could refine the analysis.
 
 ![image](https://user-images.githubusercontent.com/98857817/158437679-3ae3f4dd-4755-4b29-a061-e806a80e1811.png)
 
@@ -191,7 +191,7 @@ In the third week, Alura Skimo needs a dashboard to track all necessary sales me
 &nbsp;
 &nbsp;
 
-:brown_circle::red_circle::purple_circle::red_circle: On the fourth page you can see seller information, total revenue by month, revenue difference between current and last year and sales by state. Filters are on the left side, next to the menu bar. As on the other pages, all graphics are interactive.
+🟤🔴🟣🔴 On the fourth page you can see seller information, total revenue by month, revenue difference between current and last year and sales by state. Filters are on the left side, next to the menu bar. As on the other pages, all graphics are interactive.
 
 ![image](https://user-images.githubusercontent.com/98857817/158441266-e4394c98-bfda-4f44-9c74-69ac187d364c.png)
 
@@ -200,7 +200,7 @@ In the third week, Alura Skimo needs a dashboard to track all necessary sales me
 &nbsp;
 &nbsp;
 
-:brown_circle::red_circle::purple_circle::red_circle::brown_circle: The last page contains scenario analysis. The base scenario and three pre-defined scenarios were created and their difference is shown on multi-row cards. There is a line chart with a trend line showing the profit in the chosen scenario. Furthermore, it is possible to build a new scenario by changing the three metrics used: sales, selling price and production cost. Finally, there is a date slicer to customize the analysis period.
+🟤🔴🟣🔴🟤 The last page contains scenario analysis. The base scenario and three pre-defined scenarios were created and their difference is shown on multi-row cards. There is a line chart with a trend line showing the profit in the chosen scenario. Furthermore, it is possible to build a new scenario by changing the three metrics used: sales, selling price and production cost. Finally, there is a date slicer to customize the analysis period.
 
 ![image](https://user-images.githubusercontent.com/98857817/158447780-d8d34ac7-0dbf-4dbc-b5d9-73ddb17e70fc.png)
 
