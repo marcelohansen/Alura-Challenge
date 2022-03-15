@@ -155,7 +155,7 @@ In the third week, Alura Skimo needs a dashboard to track all necessary sales me
 &nbsp;
 &nbsp;
 
-:red_square: The panel has a menu bar on the left side. There are five buttons to navigate between pages and two buttons to link to the dashboard creator's GitHub and Linkedin pages. All buttons were made with markers. The panel design was created in MS Power Point.
+:red_square: The panel has a menu bar on the left side. There are five buttons to navigate between pages and two buttons to link to the dashboard creator's GitHub and Linkedin pages. All buttons were made with bookmarks. The panel design was created in MS Power Point.
 
 ![image](https://user-images.githubusercontent.com/98857817/158444974-04931991-48a4-46eb-a99b-76eab96103dc.png)
 
